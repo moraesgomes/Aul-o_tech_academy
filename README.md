@@ -1,2 +1,2 @@
-# treinando html e css
-projeto inicial sobre html e css
+# Treinando html e css
+Projeto inicial sobre html e css
