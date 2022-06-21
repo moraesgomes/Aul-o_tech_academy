@@ -1,2 +1,2 @@
-# html e css
-Pagina inicial sobre html e css
+Primeiro desafio do StartSe Tech Academy.
+Criação da página inicial de um website utilizando alguns elementos de HTML e CSS.
